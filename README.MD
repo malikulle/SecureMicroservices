@@ -17,8 +17,8 @@
 - `IdentityServer` project protect routes and generate token to login system.
     
 - Movies API return Movies like this to table
-![MoviesAPI](https://github.com/malikulle/SecureMicroservices/blob/master/images/1.png?raw=true)
+![MoviesAPI](https://github.com/malikulle/SecureMicroservices/blob/main/images/1.png?raw=true)
     
 - Routes are secure with `Identity Server`. `Only Admin Page` is seen and reachable for user who has `admin` role.
-![MoviesAPI](https://github.com/malikulle/SecureMicroservices/blob/master/images/2.png?raw=true)
+![MoviesAPI](https://github.com/malikulle/SecureMicroservices/blob/main/images/2.png?raw=true)
     
